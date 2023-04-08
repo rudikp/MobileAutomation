@@ -18,9 +18,9 @@ import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
 
-Mobile.verifyElementVisible(findTestObject('Login/ErrorMessage'), 0)
+Mobile.verifyElementVisible(findTestObject('Login/ErrorMessage-1Xpath'), 0)
 
-errorText = Mobile.getText(findTestObject('Login/ErrorMessage'), 0)
+errorText = Mobile.getText(findTestObject('Login/ErrorMessage-1Xpath'), 0)
 
 KeywordUtil.logInfo('Error Text: ' + errorText)
 
