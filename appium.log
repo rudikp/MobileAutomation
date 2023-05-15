@@ -61,8 +61,8 @@
 [35m[Appium][39m New AndroidUiautomator2Driver session created successfully, session 34b9b799-aa7c-40a7-8875-df22654c3db3 added to master session list
 [35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[32m200[39m [90m20058 ms - 1436[39m
 [35m[HTTP][39m [90m[39m
-[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/34b9b799-aa7c-40a7-8875-df22654c3db3[39m
-[35m[HTTP][39m [90m{}[39m
+[35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/34b9b799-aa7c-40a7-[35m[Appium][39m Received SIGTERM - shutting down
+
 [35m[HTTP][39m [37m<-- GET /wd/hub/session/34b9b799-aa7c-40a7-8875-df22654c3db3 [39m[32m200[39m [90m36 ms - 1390[39m
 [35m[HTTP][39m [90m[39m
 [35m[HTTP][39m [37m-->[39m [37mGET[39m [37m/wd/hub/session/34b9b799-aa7c-40a7-8875-df22654c3db3[39m
